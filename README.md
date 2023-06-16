@@ -1,6 +1,6 @@
 ## DL-PROJECT-FACE-DETECTION
 
-# link of dataset
+# Link Dataset
 ```
 https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 ```
